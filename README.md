@@ -1,6 +1,6 @@
 ---
-title: Vscode
-emoji: 😻
+title: Visual Studio Code
+emoji: 💻🐳
 colorFrom: red
 colorTo: blue
 sdk: docker
